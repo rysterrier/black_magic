@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--************************************-->
+<!--   File    : black_magic.fsproj     -->
+<!--   Format  : TopoR Project file     -->
+<!--   Version : 2                      -->
+<!--   Program : TopoR Lite 7.0.18707   -->
+<!--   Date    : Saturday, May 30, 2020 -->
+<!--   Time    : 17:26                  -->
+<!--************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{AE45008F-B77F-42AC-86CA-CE357395D9EC}</GUID>
+   <Documents>
+      <Section name="PCB" isExpanded="true">
+         <File path=".\black_magic.fsx" isopened="0" dateChange="2020-05-29 13:03:38"/>
+         <File path=".\black_magic_689-108s.fsx" isopened="0" dateChange="2020-05-30 17:26:08"/>
+      </Section>
+      <Section name="AutoRouting" isExpanded="true">
+         <File path=".\autoroute_200530171504\black_magic_622-139s.fsb" isopened="0" dateChange="2020-05-30 17:15:05"/>
+         <File path=".\autoroute_200530171504\black_magic_681-109s.fsb" isopened="0" dateChange="2020-05-30 17:15:25"/>
+         <File path=".\autoroute_200530171504\black_magic_689-108s.fsb" isopened="0" dateChange="2020-05-30 17:15:37"/>
+      </Section>
+   </Documents>
+   <Import>
+      <Specctra>
+         <Path name="E:\PCB+PROJECTS\Black Magic debugger\black_magic\kicad\black_magic\black_magic.dsn"/>
+      </Specctra>
+   </Import>
+</Project>
